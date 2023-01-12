@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I am Liana 👋
 
+<a href="https://www.linkedin.com/in/lyukhymchak/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat-square&logo=linkedin&colorB=0077B5" alt="LinkedIn">
+</a>
 <!--
 **lyukhymchak/lyukhymchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
